@@ -1,0 +1,12 @@
+{
+  "name": "AP ARENA",
+  "short_name": "AP ARENA",
+  "description": "Arena de partidas AP",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050505",
+  "theme_color": "#ff6a00",
+  "lang": "pt-BR"
+}
